@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://aem-sites-terinmez.ngrok.dev/bin/franklin.delivery/terinmez/te-aem-edge-1-local/main"
     type: "markup"
     suffix: ".html"
